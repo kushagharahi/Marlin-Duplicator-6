@@ -1,4 +1,7 @@
-﻿# Marlin 3D Printer Firmware for the Duplicator 6 autobuild edition
+﻿Changes made:
+- Enabled `mesh bed leveling` in menus
+
+# Marlin 3D Printer Firmware for the Duplicator 6 autobuild edition
 
 For prebuilt firmware version look in the [releases](https://github.com/dot-bob/Marlin-Duplicator-6/releases) section.
 
