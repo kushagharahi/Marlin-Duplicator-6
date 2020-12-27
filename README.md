@@ -1,5 +1,6 @@
 ﻿Changes made:
 - Enabled `mesh bed leveling` in menus
+- Set extruder motor to BMG mode (non-inverted)
 
 # Marlin 3D Printer Firmware for the Duplicator 6 autobuild edition
 
